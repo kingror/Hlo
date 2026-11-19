@@ -1,0 +1,6 @@
+{
+  "name": "RORN Studio — Enterprise NLE Video Editor",
+  "description": "Multi-track non-linear video editor with frame-accurate timeline editing, Bezier keyframe animation, Chroma Key, 3D LUT color grading, audio sidechain ducking, and Media3 export pipeline.",
+  "requestFramePermissions": ["camera", "microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
